@@ -1,2 +1,2 @@
-# websocket-test
-A small demo for websocket
+# webserver-test
+A small demo for webserver
